@@ -4,7 +4,7 @@ Volatility - un cadre open-source pour l'extraction d'artefacts numériques à p
 # To list all available plugins
 $ vol -f memorydump.raw -h
 
- # Volatility usage
+# Volatility usage
 $ vol -f memorydump.raw <plugin>
 ````
 ## Olevba
