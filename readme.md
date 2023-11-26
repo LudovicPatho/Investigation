@@ -11,5 +11,5 @@ $ vol -f memorydump.raw <plugin>
 Un outil pour analyser et extraire les macros VBA des documents Microsoft Office. Cet outil fait également partie de la suite Oletools.
 ````bash 
 # Olevba usage:
-olevba document.com
+$ olevba document.com
 ````
